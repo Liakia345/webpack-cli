@@ -1,4 +1,4 @@
-```
+Finexo```
 Usage: webpack [entries...] [options]
 Alternative usage to run commands: webpack [command] [options]
 
